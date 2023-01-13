@@ -1,7 +1,7 @@
 # PlaylistLoader-Suite
 The full suite of music related scripts
 
-The Goal is to make it as easy as possible to download, organize and easily access your favorite. 
+The Goal is to make it as easy as possible to download, organize and easily access your favorite music. 
 
 **Current require packages** 
 - dmenu (menu)
